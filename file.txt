@@ -1,0 +1,226 @@
+1. Afghanistan.
+2. Albania
+3. Algeria
+4. Andorra
+5. Angola
+6. Antigua
+7. Argentina
+8. Armenia
+9. Australia
+10. Austria
+11. Austrian Empire
+12. Azerbaijan
+13. Baden *
+14. Bahamas
+15. The Bahrain
+16. Bangladesh
+17. Barbados
+18. Bavaria *
+19. Belarus
+20. Belgium
+21. Belize
+22. Benin(Dahomey)
+23. Bolivia 
+24. Bosnia and Herzegovina
+25. Botswana
+26. Brazil
+27. Brunei
+28. Brunswick and Lüneburg
+29. Bulgaria
+30. Burkina Faso(Upper Volta)
+31. Buma
+32. Burundi
+33. Cabo Verde
+34. Cambodia
+35. Cameroon
+36. Canada
+37. Cayman Islands, The
+38. Central African Republic
+39. Central American Federation*
+40. Chad
+41. Chile
+42. China
+43. Colombia
+44. Comoros 
+45. Congo Free State, The
+46. Costa Rica
+47. Cote d’Ivoire (Ivory Coast)
+48. Croatia
+49. Cuba
+50. Cyprus
+51. Czechia
+52. Czechoslovakia
+53. Democratic Republic of the Congo
+54. Denmark
+55. Djibouti 
+56. Dominica
+57. Dominican Republic
+58. Duchy of Parma, The*
+59. East Germany (German Democratic Republic)
+60. Ecuador
+61. Egypt
+62. El Salvador
+63. Equatorial Guinea
+64. Eritrea
+65. Estonia
+66. Eswatini
+67. Ethiopia
+68. Federal Government of Germany (1848-49)*
+69. Fiji
+70. Finland
+71. France
+72. Gabon
+73. Gambia, The
+74. Georgia
+75. Germany
+76. Ghana
+77. Grand Duchy of Tuscany, The*
+78. Greece
+79. Grenada
+80. Guatemala
+81. Guinea
+82. Guinea-Bissau
+83. Guyana
+84. Haiti
+85. Hanover*
+86. Hanseatic Republics*
+87. Hawaii*
+88. Hesse*
+89. Holy See
+90. Honduras
+91. Hungary
+92. Iceland
+93. India
+94. Indonesia
+95. Iran
+96. Iraq
+97. Ireland
+98. Israel
+99. Italy
+100. Jamaica
+101. Japan
+102. Jordan
+103. Kazakhstan
+104. Kenya
+105. Kingdom of Serbia/Yugoslavia*
+106. Kiribati
+107. Korea
+108. Kosovo 
+109. Kuwait
+110. Kyrgyzstan
+111. Laos
+112. Latvia
+113. Lebanon
+114. Lesotho
+115. Lew Chew (Loochoo)*
+116. Liberia
+117.Libya 
+118. Liechtenstein
+119. Lithuania
+120. Luxembourg
+121. Madagascar
+122. Malawi
+123. Malaysia
+124. Maldives
+125. Mali
+126. Malta
+127. Marshall Islands
+128. Mauritania
+129. Mauritius
+130. Mecklenburg-Schwerin*
+131. Mecklenburg-Strelitz* 
+132. Mexico
+133. Micronesia
+134. Moldova
+135. Monaco
+136. Mongolia
+137. Montenegro
+138. Morocco
+139. Mozambique
+140. Namibia
+141. Nassau*
+142. Nauru
+143. Nepal
+144. Netherlands, The
+145. New Zealand
+146. Nicaragua
+147. Niger
+148. Nigeria
+149. North German Confederation*
+150. North German Union*
+151. North Macedonia
+152. Norway
+153. Oldenburg*
+154. Oman
+155. Orange Free State*
+156. Pakistan
+157. Palau
+158. Panama
+159. Papal States*
+160. Papua New Guinea
+161. Paraguay
+162. Peru
+163. Philippines
+164. Piedmont-Sardinia*
+165.  Poland
+166. Portugal
+167. Qatar
+168. Republic of Genoa*
+169. Republic of Korea (South Korea)
+170. Republic of the Congo
+171. Romania
+172. Russia
+173. Rwanda
+174. Saint Kitts and Nevis
+175. Saint Lucia
+176. Saint Vincent and the Grenadines
+177. Samoa
+178. San Marino
+179. Sao Tome and Principe
+180. Saudi Arabia
+181. Schaumburg-Lippe*
+182. Senegal 
+183. Serbia
+184. Seychelles
+185. Sierra Leone
+186. Singapore
+187. Slovakia
+188. Slovenia
+189. Solomon Islands, The
+190. Somalia
+191. South Africa
+192. South Sudan
+193. Spain
+194.  Sri Lanka
+195. Sudan
+196. Suriname
+197. Sweden
+198. Switzerland
+199. Syria
+200. Tajikistan
+201. Tanzania
+202. Texas*
+203. Thailand
+204. Timor-Leste
+205. Togo
+206. Tonga
+207. Trinidad and Tobago
+208. Tunisia
+209. Turkey
+210. Turkmenistan
+211. Tuvalu
+212. Two Sicilies*
+213.Uganda 
+214, Ukraine
+215. Union of Soviet Socialist Republics*
+216. United Arab Emirates, The
+217. United Kingdom, The
+218. Uruguay
+219. Uzbekistan
+220. Vanuatu
+221. Venezuela
+222. Vietnam
+223. Württemberg*
+224. Yemen
+225. Zambia
+226. Zimbabwe
